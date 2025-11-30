@@ -1,0 +1,309 @@
+=================================
+  STOCK TRADING PLATFORM
+=================================
+
+Enter username: AHMAD ANSARI
+Load existing portfolio? (y/n): N
+Enter initial cash amount: $900
+
+? Welcome, AHMAD ANSARI!
+
+=== MAIN MENU ===
+1. View Market Data
+2. Buy Stock
+3. Sell Stock
+4. View Portfolio
+5. View Transaction History
+6. Update Market Prices
+7. Save Portfolio
+8. Exit
+Choose option: 2
+
+=== MARKET DATA ===
+Microsoft Corp. (MSFT): $380.75
+Alphabet Inc. (GOOGL): $140.25
+Apple Inc. (AAPL): $175.50
+Tesla Inc. (TSLA): $245.60
+Amazon.com Inc. (AMZN): $155.30
+
+Enter stock symbol to buy: AMZN
+Current price of AMZN: $155.30
+Enter quantity to buy: 6
+
+Total cost: $931.80
+Confirm purchase? (y/n): N
+Purchase cancelled.
+
+=== MAIN MENU ===
+1. View Market Data
+2. Buy Stock
+3. Sell Stock
+4. View Portfolio
+5. View Transaction History
+6. Update Market Prices
+7. Save Portfolio
+8. Exit
+Choose option: 2
+
+=== MARKET DATA ===
+Microsoft Corp. (MSFT): $380.75
+Alphabet Inc. (GOOGL): $140.25
+Apple Inc. (AAPL): $175.50
+Tesla Inc. (TSLA): $245.60
+Amazon.com Inc. (AMZN): $155.30
+
+Enter stock symbol to buy: AMZN
+Current price of AMZN: $155.30
+Enter quantity to buy: 2
+
+Total cost: $310.60
+Confirm purchase? (y/n): Y
+Successfully bought 2 shares of AMZN
+
+=== MAIN MENU ===
+1. View Market Data
+2. Buy Stock
+3. Sell Stock
+4. View Portfolio
+5. View Transaction History
+6. Update Market Prices
+7. Save Portfolio
+8. Exit
+Choose option: 4
+
+=== PORTFOLIO ===
+Cash Balance: $589.40
+
+Holdings:
+AMZN: 2 shares @ $155.30 = $310.60
+
+Total Portfolio Value: $900.00
+
+=== MAIN MENU ===
+1. View Market Data
+2. Buy Stock
+3. Sell Stock
+4. View Portfolio
+5. View Transaction History
+6. Update Market Prices
+7. Save Portfolio
+8. Exit
+Choose option: 6
+
+=== UPDATING MARKET PRICES ===
+MSFT: $380.75 ? $388.76 ? (2.10%)
+GOOGL: $140.25 ? $145.49 ? (3.73%)
+AAPL: $175.50 ? $170.83 ? (-2.66%)
+TSLA: $245.60 ? $251.96 ? (2.59%)
+AMZN: $155.30 ? $153.56 ? (-1.12%)
+Market prices updated!
+
+=== MAIN MENU ===
+1. View Market Data
+2. Buy Stock
+3. Sell Stock
+4. View Portfolio
+5. View Transaction History
+6. Update Market Prices
+7. Save Portfolio
+8. Exit
+Choose option:
+Invalid input! Please enter a valid number: 
+Invalid input! Please enter a valid number: 
+Invalid input! Please enter a valid number:
+Invalid input! Please enter a valid number: 
+Invalid input! Please enter a valid number:
+Invalid input! Please enter a valid number: 
+Invalid input! Please enter a valid number: 
+Invalid input! Please enter a valid number: 
+Invalid input! Please enter a valid number: 7
+
+? Portfolio saved successfully to portfolio_data.txt
+
+=== MAIN MENU ===
+1. View Market Data
+2. Buy Stock
+3. Sell Stock
+4. View Portfolio
+5. View Transaction History
+6. Update Market Prices
+7. Save Portfolio
+8. Exit
+Choose option: 1
+
+=== MARKET DATA ===
+Microsoft Corp. (MSFT): $388.76
+Alphabet Inc. (GOOGL): $145.49
+Apple Inc. (AAPL): $170.83
+Tesla Inc. (TSLA): $251.96
+Amazon.com Inc. (AMZN): $153.56
+
+=== MAIN MENU ===
+1. View Market Data
+2. Buy Stock
+3. Sell Stock
+4. View Portfolio
+5. View Transaction History
+6. Update Market Prices
+7. Save Portfolio
+8. Exit
+Choose option: 8
+
+Save before exit? (y/n): Y
+
+? Portfolio saved successfully to portfolio_data.txt
+
+Thank you for using Stock Trading Platform!
+Goodbye, AHMAD ANSARI!
+
+C:\Users\NAMAN SINGH KUSHWAHA\OneDrive\Pictures\Documents\JAVA INTERNSHIP>
+
+C:\Users\NAMAN SINGH KUSHWAHA\OneDrive\Pictures\Documents\JAVA INTERNSHIP>
+C:\Users\NAMAN SINGH KUSHWAHA\OneDrive\Pictures\Documents\JAVA INTERNSHIP> c: && cd "c:\Users\NAMAN SINGH KUSHWAHA\OneDrive\Pictures\Documents\JAVA INTERNSHIP" && cmd /C ""C:\Program Files\Java\jdk-24\bin\java.exe" --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp "C:\Users\NAMAN SINGH KUSHWAHA\AppData\Roaming\Code\User\workspaceStorage\23532ece079e97b4354671f97e208fc7\redhat.java\jdt_ws\JAVA INTERNSHIP_f1c03c18\bin" StockTradingPlatform "
+=================================
+  STOCK TRADING PLATFORM
+=================================
+
+Enter username: AMAN RAJ
+Load existing portfolio? (y/n): N
+Enter initial cash amount: $900000
+
+? Welcome, AMAN RAJ!
+
+=== MAIN MENU ===
+1. View Market Data
+2. Buy Stock
+3. Sell Stock
+4. View Portfolio
+5. View Transaction History
+6. Update Market Prices
+7. Save Portfolio
+8. Exit
+Choose option: 1
+
+=== MARKET DATA ===
+Microsoft Corp. (MSFT): $380.75
+Alphabet Inc. (GOOGL): $140.25
+Apple Inc. (AAPL): $175.50
+Tesla Inc. (TSLA): $245.60
+Amazon.com Inc. (AMZN): $155.30
+
+=== MAIN MENU ===
+1. View Market Data
+2. Buy Stock
+3. Sell Stock
+4. View Portfolio
+5. View Transaction History
+6. Update Market Prices
+7. Save Portfolio
+8. Exit
+Choose option: 2
+
+=== MARKET DATA ===
+Microsoft Corp. (MSFT): $380.75
+Alphabet Inc. (GOOGL): $140.25
+Apple Inc. (AAPL): $175.50
+Tesla Inc. (TSLA): $245.60
+Amazon.com Inc. (AMZN): $155.30
+
+Enter stock symbol to buy: AMZN
+Current price of AMZN: $155.30
+Enter quantity to buy: 6
+
+Total cost: $931.80
+Confirm purchase? (y/n): Y
+Successfully bought 6 shares of AMZN
+
+=== MAIN MENU ===
+1. View Market Data
+2. Buy Stock
+3. Sell Stock
+4. View Portfolio
+5. View Transaction History
+6. Update Market Prices
+7. Save Portfolio
+8. Exit
+Choose option: 7
+
+? Portfolio saved successfully to portfolio_data.txt
+
+=== MAIN MENU ===
+1. View Market Data
+2. Buy Stock
+3. Sell Stock
+4. View Portfolio
+5. View Transaction History
+6. Update Market Prices
+7. Save Portfolio
+8. Exit
+Choose option: 5
+
+=== TRANSACTION HISTORY ===
+1. 2025-11-30 13:00:07 | BUY 6 shares of AMZN @ $155.30 | Total: $931.80
+
+=== MAIN MENU ===
+1. View Market Data
+2. Buy Stock
+3. Sell Stock
+4. View Portfolio
+5. View Transaction History
+6. Update Market Prices
+7. Save Portfolio
+8. Exit
+Choose option: 4
+
+=== PORTFOLIO ===
+Cash Balance: $899068.20
+
+Holdings:
+AMZN: 6 shares @ $155.30 = $931.80
+
+Total Portfolio Value: $900000.00
+
+=== MAIN MENU ===
+1. View Market Data
+2. Buy Stock
+3. Sell Stock
+4. View Portfolio
+5. View Transaction History
+6. Update Market Prices
+7. Save Portfolio
+8. Exit
+Choose option: 3
+
+=== YOUR HOLDINGS ===
+AMZN: 6 shares @ $155.30
+
+Enter stock symbol to sell: AMZN
+You own 6 shares of AMZN
+Current price: $155.30
+Enter quantity to sell: 1
+
+Total value: $155.30
+Confirm sale? (y/n): Y
+Successfully sold 1 shares of AMZN
+
+=== MAIN MENU ===
+1. View Market Data
+2. Buy Stock
+3. Sell Stock
+4. View Portfolio
+5. View Transaction History
+6. Update Market Prices
+7. Save Portfolio
+8. Exit
+Choose option: 5
+
+=== TRANSACTION HISTORY ===
+1. 2025-11-30 13:00:07 | BUY 6 shares of AMZN @ $155.30 | Total: $931.80
+2. 2025-11-30 13:00:47 | SELL 1 shares of AMZN @ $155.30 | Total: $155.30
+
+=== MAIN MENU ===
+1. View Market Data
+2. Buy Stock
+3. Sell Stock
+4. View Portfolio
+5. View Transaction History
+6. Update Market Prices
+7. Save Portfolio
+8. Exit
